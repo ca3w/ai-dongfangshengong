@@ -1,21 +1,21 @@
-![](../../static/ca3w.png "ca3w 认证机构信息管理系统")
+![](../../static/ca3w.png "ca3w 认证机构管理系统")
 
-适配高网速、好电脑的，认证机构信息管理系统 <br/>
-清爽、高级、惊艳、生态，新时代的驾驭感 <br/>
+适配高网速、符合时代的：认证机构管理系统 <br/>
+高维、上色、灵动！五绝，不一样的高级感 <br/>
 主理人：麦修行（大江东去，唯我修行）
 
-[麦修行][]&nbsp;&nbsp;&nbsp;&nbsp;[AI->东方神功][东方神功]&nbsp;[剧情][]&nbsp;[人物][]&nbsp;&nbsp;&nbsp;&nbsp;[原理][]&nbsp;&nbsp;[规则][]&nbsp;&nbsp;[价格][]&nbsp;&nbsp;[购买][]&nbsp;&nbsp;&nbsp;&nbsp;[高奢团][]&nbsp;&nbsp;&nbsp;&nbsp;[发展历程][]
+[麦修行][]&nbsp;&nbsp;&nbsp;&nbsp;[AI->东方神功][东方神功]&nbsp;[剧情][]&nbsp;[人物][]&nbsp;&nbsp;&nbsp;&nbsp;[原理][]&nbsp;&nbsp;[规则][]&nbsp;&nbsp;[价格][]&nbsp;&nbsp;[购买][]&nbsp;&nbsp;&nbsp;&nbsp;[大模型-符文][]&nbsp;&nbsp;&nbsp;&nbsp;[发展历程][]
 
-[麦修行]: https://github.com/ca3w/BEST
-[东方神功]: https://github.com/ca3w/ai-dongfangshengong
+[麦修行]: https://github.com/ca3w/BEST/
+[东方神功]: https://github.com/ca3w/ai-dongfangshengong/
 [剧情]: https://github.com/ca3w/dongfangernvqing/blob/main/root/BEST.md
 [人物]: https://github.com/ca3w/dongfangernvqing/blob/main/root/renwu.md
-[原理]: https://github.com/ca3w/key
-[规则]: https://github.com/ca3w/rule
-[价格]: https://github.com/ca3w/pricing
-[购买]: https://github.com/ca3w/howtobuy
-[高奢团]: https://github.com/ca3w/tuan
-[发展历程]: https://github.com/ca3w/development
+[原理]: https://github.com/ca3w/key/
+[规则]: https://github.com/ca3w/rule/
+[价格]: https://github.com/ca3w/pricing/
+[购买]: https://github.com/ca3w/howtobuy/
+[大模型-符文]: https://github.com/ca3w/largemodel-rune/
+[发展历程]: https://github.com/ca3w/development/
 
 ***
 
@@ -168,4 +168,38 @@
 
 要你一夜学会，恐怕有点强人所难
 你学不学得成，就看你的悟性了
+```
+
+```text
+自用注释
+
+以行业表的 门类、大类、中类、小类 为例：
+纵剑式
+横剑式
+
+落剑式 标准纵表的基础上 小类雕栏（《雕栏剑法》）
+    纵剑小雕为落剑 纵剑小类雕栏为落剑
+荡剑式 标准横表的基础上 小类雕栏（《雕栏剑法》）
+    横剑小雕为荡剑 横剑小类雕栏为荡剑
+
+侧剑式 先横后纵，为侧，一般是一列甩在边上，突出后面的纵的意思
+    纵剑门类转横为侧剑
+归剑式 先纵后横，为侧，有归纳的意思
+
+合剑式 多表合并（基础代码）
+集剑式 集剑归宗
+
+奇剑式 其他谓之奇
+
+***
+
+GIF制作
+    录屏 830x530
+        5秒 动 10秒 停
+        结果得到 11s 12s 的
+    Keynote 830x530 大小一致，拖入视频，导出 `影片...` 自定 830x530 大小一致
+        压缩类型选择 「Apple ProRes 4444」 会更清楚、效果好、不失真
+    然后使用 PicGIF 12秒30帧 转为 gif
+
+    小技巧：颜色全绿失真，删去第一帧，再生成就好了
 ```
