@@ -1,7 +1,7 @@
 ![](../../static/ca3w.png "ca3w 认证机构管理系统")
 
-适配高网速、符合时代的：认证机构管理系统 <br/>
-高维、上色、灵动！五绝，不一样的高级感 <br/>
+以东方文化为底蕴缔造轻奢认证机构管理系统 <br/>
+适配高网速、符合时代，高维、上色、灵动 <br/>
 主理人：麦修行（大江东去，唯我修行）
 
 [麦修行][]&nbsp;&nbsp;&nbsp;&nbsp;[AI->东方神功][东方神功]&nbsp;[剧情][]&nbsp;[人物][]&nbsp;&nbsp;&nbsp;&nbsp;[原理][]&nbsp;&nbsp;[规则][]&nbsp;&nbsp;[价格][]&nbsp;&nbsp;[购买][]&nbsp;&nbsp;&nbsp;&nbsp;[大模型-符文][]&nbsp;&nbsp;&nbsp;&nbsp;[发展历程][]
