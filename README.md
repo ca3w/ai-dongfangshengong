@@ -39,7 +39,7 @@
 分类        |武功              |五绝          |招式                                                      |点评&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----------:|:-----------------|:-------------|:---------------------------------------------------------|:----------------
 剑法        |[扶摇九剑][]      |[南扶][]      |[纵剑式][]、[横剑式][]、[落剑式][]、[荡剑式][]            |九剑高维 · 美好
-飞针        |[飞针宝典][]      |[西花][]      |[飞针清明][]、[飞针惊艳][]、[飞针入魂][]                  |飞针上色 · 惊艳
+飞针        |[飞针宝典][]      |[西花][]      |[飞针惊艳][]、[银针黯然][]、[弹指神通][]                  |飞针上色 · 惊艳
 剑法        |[莫言][]          |[东流][]      |[子剑东流][]、[雕栏破碎][]、[穿云纵][]、[穿云再纵][]      |莫言灵动 · 酷炫
 幻术        |[神驭][]          |[北神][]      |[虚界][]                                                  |神驭虚界 · 霸气
 内功        |[百川归宗][]      |[中禅师][]    |[一叶归宗][]、[一川归宗][]、[集剑归宗][]、[无相归宗][]    |百川归宗 · 神奇
@@ -61,9 +61,9 @@
 [南扶]:                 https://github.com/ca3w/dongfangernvqing/blob/main/root/renwu.md#南扶
 
 [飞针宝典]:             ./root/wugong/feizhenbaodian/BEST.md
-[飞针清明]:             ./root/wugong/feizhenbaodian/BEST.md#飞针清明
 [飞针惊艳]:             ./root/wugong/feizhenbaodian/BEST.md#飞针惊艳
-[飞针入魂]:             ./root/wugong/feizhenbaodian/BEST.md#飞针入魂
+[银针黯然]:             ./root/wugong/feizhenbaodian/BEST.md#银针黯然
+[弹指神通]:             ./root/wugong/feizhenbaodian/BEST.md#弹指神通
 [西花]:                 https://github.com/ca3w/dongfangernvqing/blob/main/root/renwu.md#西花
 
 [莫言]:                 ./root/wugong/moyan/BEST.md
